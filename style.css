@@ -101,3 +101,8 @@ form{
   .container-fluid .row{
     justify-content: space-between;
   }
+  .arrow-link{
+    display: flex;
+    position: relative;
+    align-items: center;
+  }
