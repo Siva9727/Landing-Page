@@ -9,3 +9,10 @@
 .navbar-toggler {
     color: white;
 }
+.header{
+    display: flex !important;
+    justify-content: space-between;
+}
+.navbar-expand-lg .navbar-collapse{
+    justify-content: flex-end;
+}
