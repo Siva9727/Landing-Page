@@ -22,22 +22,21 @@
 .banner-wrapper {
   width: 100%;
   padding: 100px 0 125px;
-  background-color: black;
+  background: black !important;
   position: relative;
 }
 .banner-wrapper .row .text-tag {
-  font-weight: 700;
-  font-size: 200px;
-  line-height: 242px;
-  border-radius: 5%;
-  animation: float 2s ease-in-out infinite;
+    font-weight: 700;
+    font-size: 126px;
+    line-height: 175px;
+    border-radius: 5%;
+    animation: float 2s ease-in-out infinite;
 
 }
 .banner-wrapper .row .image{
-    position: relative;
-    top: 12em;
+    
     z-index: 1000;
-    left: -7em;
+    
     width: 50%;
 
 }
